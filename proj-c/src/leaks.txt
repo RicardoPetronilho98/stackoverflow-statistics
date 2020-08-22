@@ -1,0 +1,25 @@
+Process:         program [30474]
+Path:            /Users/henriquefaria/Desktop/LI3/Grupo5/src/program
+Load Address:    0x1001fd000
+Identifier:      program
+Version:         ???
+Code Type:       X86-64
+Parent Process:  bash [27879]
+
+Date/Time:       2018-05-05 22:52:06.597 +0100
+Launch Time:     2018-05-05 22:46:49.844 +0100
+OS Version:      Mac OS X 10.13.4 (17E199)
+Report Version:  7
+Analysis Tool:   /usr/bin/leaks
+
+Physical footprint:         22.8M
+Physical footprint (peak):  300.8M
+----
+
+leaks Report Version: 3.0
+Process 30474: 864 nodes malloced for 128 KB
+Process 30474: 3 leaks for 176 total leaked bytes.
+
+Leak: 0x7fd87844ae60  size=80  zone: DefaultMallocZone_0x100211000
+Leak: 0x7fd87844d490  size=80  zone: DefaultMallocZone_0x100211000
+Leak: 0x7fd878e0b830  size=16  zone: DefaultMallocZone_0x100211000

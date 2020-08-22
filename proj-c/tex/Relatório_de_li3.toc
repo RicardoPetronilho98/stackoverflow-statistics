@@ -1,0 +1,19 @@
+\babel@toc {portuguese}{}
+\contentsline {section}{\numberline {0.1}Introdu\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {section}{\numberline {0.2}Tipo concreto de dados}{3}
+\contentsline {section}{\numberline {0.3}Estruturas de dados usada}{5}
+\contentsline {section}{\numberline {0.4}Modulariza\IeC {\c c}\IeC {\~a}o funcional}{9}
+\contentsline {section}{\numberline {0.5}Abstra\IeC {\c c}\IeC {\~a}o de dados}{10}
+\contentsline {section}{\numberline {0.6}Estrat\IeC {\'e}gias seguidas em cada uma das interroga\IeC {\c c}\IeC {\~o}es}{11}
+\contentsline {subsection}{\numberline {0.6.1}Interroga\IeC {\c c}\IeC {\~a}o 1}{11}
+\contentsline {subsection}{\numberline {0.6.2}Interroga\IeC {\c c}\IeC {\~a}o 2}{11}
+\contentsline {subsection}{\numberline {0.6.3}Interroga\IeC {\c c}\IeC {\~a}o 3}{11}
+\contentsline {subsection}{\numberline {0.6.4}Interroga\IeC {\c c}\IeC {\~a}o 4}{11}
+\contentsline {subsection}{\numberline {0.6.5}Interroga\IeC {\c c}\IeC {\~a}o 5}{11}
+\contentsline {subsection}{\numberline {0.6.6}Interroga\IeC {\c c}\IeC {\~a}o 6}{11}
+\contentsline {subsection}{\numberline {0.6.7}Interroga\IeC {\c c}\IeC {\~a}o 7}{11}
+\contentsline {subsection}{\numberline {0.6.8}Interroga\IeC {\c c}\IeC {\~a}o 8}{12}
+\contentsline {subsection}{\numberline {0.6.9}Interroga\IeC {\c c}\IeC {\~a}o 9}{12}
+\contentsline {subsection}{\numberline {0.6.10}Interroga\IeC {\c c}\IeC {\~a}o 10}{12}
+\contentsline {subsection}{\numberline {0.6.11}Interroga\IeC {\c c}\IeC {\~a}o 11}{12}
+\contentsline {section}{\numberline {0.7}Estrat\IeC {\'e}gias para melhoramento de desempenho}{13}
